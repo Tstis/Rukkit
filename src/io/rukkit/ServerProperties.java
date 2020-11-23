@@ -56,8 +56,8 @@ public class ServerProperties
 	public static int startingUnits = 1;
 	
 	/*Static Properties*/
-	public static String serverUser = "RUKKIT";
-	public static String serverMotd = "My Rukkit server";
+	public static String serverUser = "CF";
+	public static String serverMotd = "Command Fog";
 	public static int maxPlayer = 10;
 	public static int maxWatcher = 5;
 	public static int minStartPlayer = 4;
